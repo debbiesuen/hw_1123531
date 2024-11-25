@@ -6,9 +6,10 @@ Build the binary tree using level-order input. Use -1 to represent null nodes.
 Implement a function to calculate the diameter of the binary tree efficiently using recursion.
 
 Input:
-[1, 2, 3, 4, 5, -1, -1, -1, -1, 6, 7]
+[1, 2, 3, 4, 5, -1, -1, -1, -1, -1, -1]
+
 Output:
-5
+3
 
 
 
